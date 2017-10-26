@@ -1,7 +1,7 @@
 # Turtle
 
-**A simple and fast cache, written in Go**
+**A simple and fast in-memory cache, written in Go**
 
-This README is currently a WIP. Please `Watch This Space`.
+This README is currently a WIP. Please `Watch This Space`
 
 
